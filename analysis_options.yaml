@@ -1,0 +1,8 @@
+# Static analysis configuration for this Flutter project.
+# Uses the Dart and Flutter SDK analyzer without external lint packages.
+
+analyzer:
+  errors: {}
+
+linter:
+  rules: {}
